@@ -33,6 +33,9 @@ git checkout master
 git merge p1
 git push https://github.com/ErTreK8/examenm5uf2.git
 git branch -d p1
+git add .
+git commit -m "Examenv4.txt"
+git pull https://github.com/ErTreK8/examenm5uf2.git
 
 ------
 Jesus
@@ -54,3 +57,7 @@ git push https://github.com/ErTreK8/examenm5uf2.git
 git checkout master
 git merge p2
 git push https://github.com/ErTreK8/examenm5uf2.git
+git add .
+git commit -m "Versio 4 Final"
+git pull https://github.com/ErTreK8/examenm5uf2.git
+
