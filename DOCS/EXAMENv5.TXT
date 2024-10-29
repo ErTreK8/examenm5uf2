@@ -1,0 +1,10 @@
+git pull https://github.com/ErTreK8/examenm5uf2.git
+(Modifiquem la pagina)
+git add .
+git commit -m "Cambio Footer"
+git push https://github.com/ErTreK8/examenm5uf2.git
+(Cambio Footer Jesus)
+git pull https://github.com/ErTreK8/examenm5uf2.git
+git add .
+git commit -m "Versio 5"
+git push https://github.com/ErTreK8/examenm5uf2.git
