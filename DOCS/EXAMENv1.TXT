@@ -7,3 +7,7 @@ ls
 mkdir DOCS
 cd DOCS/
 nano EXAMENv1.TXT
+git remote add origin https://github.com/ErTreK8/examenm5uf2.git
+git add .
+git commit -m "Versio 1"
+git push https://github.com/ErTreK8/examenm5uf2.git
