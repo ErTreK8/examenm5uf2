@@ -1,0 +1,6 @@
+git pull https://github.com/ErTreK8/examenm5uf2.git
+nano DOCS/EXAMENv3.TXT
+(Copiem la carpeta de la template amb el explorador)
+git add .
+git commit -m "Versio 3"
+git push https://github.com/ErTreK8/examenm5uf2.git
