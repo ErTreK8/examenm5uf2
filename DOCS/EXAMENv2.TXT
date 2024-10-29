@@ -1,0 +1,9 @@
+git clone https://github.com/ErTreK8/examenm5uf2.git
+cd examenm5uf2/
+cd DOCS/
+touch EXAMENv2.TXT
+cd ..
+nano LICENSE
+git add .
+git commit -m "versio 2"
+git push https://github.com/ErTreK8/examenm5uf2.git
