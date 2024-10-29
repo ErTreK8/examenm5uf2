@@ -1,0 +1,9 @@
+mkdir examenm5uf2
+cd examenm5uf2/
+git init
+nano README.MD
+nano COPYLEFT
+ls
+mkdir DOCS
+cd DOCS/
+nano EXAMENv1.TXT
