@@ -1,0 +1,35 @@
+Cd template
+mkdir HTML
+mv furni-1.0.0/index.html HTML/index.html
+mv furni-1.0.0/about.html HTML/about.html
+mv furni-1.0.0/blog.html HTML/blog.html
+mv furni-1.0.0/cart.html HTML/cart.html
+mv furni-1.0.0/checkout.html HTML/checkout.html
+mv furni-1.0.0/contact.html HTML/contact.html
+mv furni-1.0.0/services.html HTML/services.html
+mv furni-1.0.0/shop.html HTML/shop.html
+mv furni-1.0.0/thankyou.html HTML/thankyou.html
+git add .
+Git commit -m “Versio4.1.0”
+Git push https://github.com/ErTreK8/examenm5uf2.git
+-----
+jesus
+----
+git pull https://github.com/ErTreK8/examenm5uf2.git
+git branch p1
+git branch p2
+git checkout p1
+git push https://github.com/ErTreK8/examenm5uf2.git
+git checkout p2
+git push https://github.com/ErTreK8/examenm5uf2.git
+git checkout p1
+git add .
+git commit -m "Cambi titol Pagina Web y Arreglar Altres Archius versio 4"
+git push https://github.com/ErTreK8/examenm5uf2.git
+git add .
+git commit -m "Cambi Tutik web que surt en menus ma o meno Versio 4"
+git push https://github.com/ErTreK8/examenm5uf2.git
+git checkout master
+git merge p1
+git push https://github.com/ErTreK8/examenm5uf2.git
+git branch -d p1
